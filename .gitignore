@@ -1,0 +1,13 @@
+# Ignore arquivos e diretórios específicos
+node_modules/
+dist/
+.env
+
+# Ignore arquivos de log
+*.log
+
+# Ignore arquivos de sistema
+.DS_Store
+Thumbs.db
+
+venv_llm/
